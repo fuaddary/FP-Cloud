@@ -19,9 +19,9 @@
                     <div class="bg-black-op-75">
                         <div class="content content-top text-center">
                             <div class="py-100">
-                                <h1 class="font-w700 text-white mb-10">SSH</h1>
-                                <h2 class="h4 font-w400 text-white-op">Saturday Sharing Homeless</h2>
-                                <h2 class="h5 font-w400 text-white-op"><i class="fa fa-heart text-pulse"></i> Komunitas Sosial - Peduli - Berbagi <i class="fa fa-heart text-pulse"></i></h2>
+                                <h1 class="font-w700 text-white mb-10">CTFQ</h1>
+                                <h2 class="h4 font-w400 text-white-op">Your Capture The Flag Assistant</h2>
+                                <h2 class="h5 font-w400 text-white-op"><i class="fa fa-heart text-pulse"></i> Reliable - High Availability - Robust <i class="fa fa-heart text-pulse"></i></h2>
                             </div>
                         </div>
                     </div>
@@ -90,6 +90,72 @@
 <!-- Team -->
                     <div class="row gutters-tiny py-20">
                         <div class="col-md-6 col-xl-4">
+                            <div class="block text-center">
+                                <div class="block-content">
+                                    <img class="img-avatar img-avatar96" src="/image/penyok.jpg" alt="">
+                                </div>
+                                <div class="block-content block-content-full">
+                                    <div class="font-size-h4 font-w600 mb-0">Udin IMM</div>
+                                    <div class="font-size-h5 text-muted">Pendiri</div>
+                                </div>
+                                <div class="block-content block-content-full bg-body-light">
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-xl-4">
+                            <div class="block text-center">
+                                <div class="block-content">
+                                    <img class="img-avatar img-avatar96" src="/image/fuad.jpg" alt="">
+                                </div>
+                                <div class="block-content block-content-full">
+                                    <div class="font-size-h4 font-w600 mb-0">DR Fu</div>
+                                    <div class="font-size-h5 text-muted">Manajer</div>
+                                </div>
+                                <div class="block-content block-content-full bg-body-light">
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-xl-4">
+                            <div class="block text-center">
+                                <div class="block-content">
+                                    <img class="img-avatar img-avatar96" src="/image/awan.jpeg" alt="">
+                                </div>
+                                <div class="block-content block-content-full">
+                                    <div class="font-size-h4 font-w600 mb-0">Cloud</div>
+                                    <div class="font-size-h5 text-muted">Manajer</div>
+                                </div>
+                                <div class="block-content block-content-full bg-body-light">
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                    <a class="btn btn-circle btn-secondary" href="https://github.com/fuaddary/SSH">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                                <div class="col-md-6 col-xl-4">
                             <div class="block text-center">
                                 <div class="block-content">
                                     <img class="img-avatar img-avatar96" src="/image/penyok.jpg" alt="">

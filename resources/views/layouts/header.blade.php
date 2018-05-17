@@ -7,8 +7,8 @@
             <!-- Logo -->
             <div class="content-header-item">
                 <a class="link-effect font-w700 mr-5" href="/">
-                    <i class="fa fa-handshake-o text-primary"></i>
-                    <span class="font-size-xl text-dual-primary-dark">SS</span><span class="font-size-xl text-primary">H</span>
+                    <i class="fa fa-code-fork font-size-xl text-primary"></i>
+                    <span class="font-size-xl text-dual-primary-dark"> CTF</span><span class="font-size-xl text-primary">Q</span>
                 </a>
             </div>
             <!-- END Logo -->
@@ -47,7 +47,7 @@
                 </li>
                 <li>
                     <a class="{{ request()->is('donasi') ? 'active' : '' }}" href="/donasi">
-                        <i class="fa fa-dollar"></i>Donasi
+                        <i class="fa fa-dollar"></i>Harga
                     </a>
                 </li>
                 <li>

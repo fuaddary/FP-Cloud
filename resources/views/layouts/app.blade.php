@@ -29,16 +29,16 @@
             @yield('header')
 
             {{--  <!-- Main Container -->  --}}
-            <main id="main-container">
+
                 {{--  <!-- Page Content -->  --}}
-                <div class="content content-full">
+
                     @yield('content')
-                </div>
+
                 {{--  <!-- END Page Content -->  --}}
-            </main>
+
             {{--  <!-- END Main Container -->  --}}
 
-            @include('layouts.footer')
+<!--             @include('layouts.footer') -->
         </div>
         {{--  <!-- END Page Container -->  --}}
         
